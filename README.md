@@ -35,3 +35,6 @@ streamlit run app.py
 ## Requirements
 
 All dependencies are listed in requirements.txt.
+
+## Appendix 
+The one-pager delving into the design decisions and technical challenges can be found [here](https://www.notion.so/Emissions-Analysis-and-Insights-Agent-25fcadf03a6280dea9c2ca5898a8712b?source=copy_link)
