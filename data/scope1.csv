@@ -1,0 +1,19 @@
+Facility,Activity_Type,Fuel_Type,Consumption_Amount,Consumption_Unit,Emission_Factor,CO2e_Tonnes,Date,Notes
+San Francisco HQ,Stationary Combustion,Natural Gas,45000,cubic_feet,0.0531,2.39,2024-01-15,Office heating
+San Francisco HQ,Stationary Combustion,Natural Gas,52000,cubic_feet,0.0531,2.76,2024-02-15,Office heating
+San Francisco HQ,Stationary Combustion,Natural Gas,38000,cubic_feet,0.0531,2.02,2024-03-15,Office heating
+Manufacturing Plant,Stationary Combustion,Coal,120,tonnes,2.42,290.4,2024-01-15,Boiler operations
+Manufacturing Plant,Stationary Combustion,Coal,115,tonnes,2.42,278.3,2024-02-15,Boiler operations
+Manufacturing Plant,Stationary Combustion,Coal,135,tonnes,2.42,326.7,2024-03-15,Boiler operations
+Fleet Operations,Mobile Combustion,Diesel,850,gallons,10.21,8.68,2024-01-15,Delivery trucks
+Fleet Operations,Mobile Combustion,Diesel,920,gallons,10.21,9.39,2024-02-15,Delivery trucks
+Fleet Operations,Mobile Combustion,Diesel,780,gallons,10.21,7.96,2024-03-15,Delivery trucks
+Fleet Operations,Mobile Combustion,Gasoline,1200,gallons,8.89,10.67,2024-01-15,Company vehicles
+Fleet Operations,Mobile Combustion,Gasoline,1150,gallons,8.89,10.22,2024-02-15,Company vehicles
+Fleet Operations,Mobile Combustion,Gasoline,1300,gallons,8.89,11.56,2024-03-15,Company vehicles
+Manufacturing Plant,Process Emissions,Cement Production,450,tonnes,0.52,234.0,2024-01-15,Cement manufacturing
+Manufacturing Plant,Process Emissions,Cement Production,420,tonnes,0.52,218.4,2024-02-15,Cement manufacturing
+Manufacturing Plant,Process Emissions,Cement Production,480,tonnes,0.52,249.6,2024-03-15,Cement manufacturing
+Warehouse,Fugitive Emissions,Refrigerants,2.5,kg_R404A,3922,9.81,2024-01-15,Cooling system leaks
+Warehouse,Fugitive Emissions,Refrigerants,1.8,kg_R404A,3922,7.06,2024-02-15,Cooling system leaks
+Warehouse,Fugitive Emissions,Refrigerants,3.2,kg_R404A,3922,12.55,2024-03-15,Cooling system leaks

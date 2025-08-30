@@ -1,0 +1,19 @@
+Facility,Energy_Type,Consumption_Amount,Consumption_Unit,Grid_Region,Emission_Factor,CO2e_Tonnes,Date,Renewable_Percentage,Notes
+San Francisco HQ,Electricity,45000,kWh,CAISO,0.334,15.03,2024-01-15,25,Office operations
+San Francisco HQ,Electricity,42000,kWh,CAISO,0.334,14.03,2024-02-15,25,Office operations
+San Francisco HQ,Electricity,47000,kWh,CAISO,0.334,15.70,2024-03-15,30,Office operations - increased renewables
+Manufacturing Plant,Electricity,180000,kWh,PJM,0.421,75.78,2024-01-15,10,Production equipment
+Manufacturing Plant,Electricity,175000,kWh,PJM,0.421,73.68,2024-02-15,10,Production equipment
+Manufacturing Plant,Electricity,195000,kWh,PJM,0.421,82.10,2024-03-15,15,Production equipment - some renewables added
+Warehouse,Electricity,25000,kWh,ERCOT,0.390,9.75,2024-01-15,0,Storage and logistics
+Warehouse,Electricity,28000,kWh,ERCOT,0.390,10.92,2024-02-15,0,Storage and logistics
+Warehouse,Electricity,23000,kWh,ERCOT,0.390,8.97,2024-03-15,0,Storage and logistics
+Data Center,Electricity,85000,kWh,NEISO,0.312,26.52,2024-01-15,40,IT infrastructure
+Data Center,Electricity,92000,kWh,NEISO,0.312,28.70,2024-02-15,45,IT infrastructure
+Data Center,Electricity,88000,kWh,NEISO,0.312,27.46,2024-03-15,45,IT infrastructure
+San Francisco HQ,Steam,1200,MMBtu,CAISO,0.074,0.09,2024-01-15,0,District heating
+San Francisco HQ,Steam,1100,MMBtu,CAISO,0.074,0.08,2024-02-15,0,District heating
+San Francisco HQ,Steam,800,MMBtu,CAISO,0.074,0.06,2024-03-15,0,District heating
+Manufacturing Plant,Steam,8500,MMBtu,PJM,0.074,0.63,2024-01-15,0,Process heating
+Manufacturing Plant,Steam,9200,MMBtu,PJM,0.074,0.68,2024-02-15,0,Process heating
+Manufacturing Plant,Steam,7800,MMBtu,PJM,0.074,0.58,2024-03-15,0,Process heating

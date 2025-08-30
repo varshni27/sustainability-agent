@@ -1,0 +1,1001 @@
+Category,Activity_Description,Spend_Amount,Spend_Currency,Emission_Factor,CO2e_Tonnes,Date,Supplier,Category_Details,Data_Quality
+Category 11,Raw Materials - Aluminum,13480.37,USD,0.861,11.61,2024-04-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 11,Inbound Logistics - Truck,44382.48,USD,1.295,57.48,2024-01-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 4,Inbound Logistics - Truck,301407.35,USD,1.706,514.2,2024-12-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 8,Product Use Phase,139817.16,USD,2.614,365.48,2024-03-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 5,Packaging Materials,108441.57,USD,2.302,249.63,2024-02-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 2,IT Hardware,423899.69,USD,1.831,776.16,2024-01-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 2,Business Travel - Air,40321.3,USD,0.915,36.89,2024-11-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 4,Raw Materials - Aluminum,23866.37,USD,0.722,17.23,2024-05-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 14,Raw Materials - Aluminum,190682.99,USD,1.388,264.67,2024-06-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 6,Office Supplies,335417.41,USD,2.12,711.08,2024-11-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 11,Packaging Materials,267535.8,USD,0.772,206.54,2024-08-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 15,Inbound Logistics - Truck,110587.97,USD,1.007,111.36,2024-01-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 13,IT Hardware,201181.23,USD,0.245,49.29,2024-10-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 11,Employee Commuting,198420.32,USD,2.748,545.26,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 3,Office Supplies,372749.5,USD,1.64,611.31,2024-12-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 7,IT Hardware,110441.06,USD,2.993,330.55,2024-09-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 13,Raw Materials - Steel,430690.35,USD,0.501,215.78,2024-03-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 2,Business Travel - Air,191428.02,USD,2.989,572.18,2024-09-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 14,Raw Materials - Steel,340461.42,USD,0.388,132.1,2024-09-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 2,Manufacturing Equipment,217947.86,USD,1.388,302.51,2024-12-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 13,Packaging Materials,254333.16,USD,0.364,92.58,2024-11-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 10,Office Supplies,77266.8,USD,2.299,177.64,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 6,Employee Commuting,10718.89,USD,2.791,29.92,2024-05-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 4,Product Use Phase,473527.77,USD,0.303,143.48,2024-08-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 13,Packaging Materials,65067.34,USD,1.452,94.48,2024-09-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 9,Product Use Phase,212145.83,USD,0.675,143.2,2024-09-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 7,IT Hardware,219611.94,USD,1.577,346.33,2024-02-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 2,IT Hardware,11496.1,USD,1.684,19.36,2024-10-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 2,Raw Materials - Steel,115241.95,USD,2.721,313.57,2024-06-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 4,Manufacturing Equipment,334819.91,USD,0.682,228.35,2024-03-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 13,Employee Commuting,403941.0,USD,0.612,247.21,2024-02-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 7,Business Travel - Air,234045.31,USD,2.201,515.13,2024-11-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 7,IT Hardware,400495.66,USD,0.372,148.98,2024-04-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 8,Packaging Materials,211518.94,USD,0.872,184.44,2024-04-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 13,Inbound Logistics - Truck,49856.46,USD,1.974,98.42,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 15,Office Supplies,83989.24,USD,1.483,124.56,2024-04-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 3,Business Travel - Air,2075.53,USD,1.202,2.49,2024-08-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 12,Inbound Logistics - Truck,331273.78,USD,1.486,492.27,2024-04-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 1,Product Use Phase,368132.85,USD,0.23,84.67,2024-06-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 10,Employee Commuting,251922.34,USD,2.566,646.43,2024-03-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 2,Packaging Materials,35192.15,USD,0.25,8.8,2024-04-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 15,Product Use Phase,123861.46,USD,1.804,223.45,2024-10-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 11,Product Use Phase,283048.23,USD,0.983,278.24,2024-05-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 4,Manufacturing Equipment,198497.14,USD,2.031,403.15,2024-05-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 15,Raw Materials - Aluminum,5648.41,USD,1.882,10.63,2024-10-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 9,Office Supplies,253436.46,USD,0.441,111.77,2024-06-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 6,Manufacturing Equipment,79715.67,USD,2.51,200.09,2024-12-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 13,Inbound Logistics - Truck,4903.73,USD,2.46,12.06,2024-05-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 5,Raw Materials - Aluminum,444966.64,USD,2.24,996.73,2024-03-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 10,Office Supplies,359088.48,USD,0.651,233.77,2024-11-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 8,Manufacturing Equipment,452762.91,USD,2.546,1152.73,2024-02-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 1,Raw Materials - Steel,167444.71,USD,0.436,73.01,2024-05-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 9,Business Travel - Air,280892.53,USD,0.38,106.74,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 1,IT Hardware,291672.27,USD,0.487,142.04,2024-03-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 6,Raw Materials - Steel,449563.39,USD,0.67,301.21,2024-04-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 13,Inbound Logistics - Truck,442183.22,USD,1.249,552.29,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 14,Packaging Materials,488126.81,USD,2.442,1192.01,2024-07-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 12,IT Hardware,391410.86,USD,1.265,495.13,2024-11-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 3,Raw Materials - Aluminum,191888.32,USD,0.164,31.47,2024-08-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 14,Employee Commuting,175479.55,USD,2.471,433.61,2024-04-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 11,Office Supplies,199834.52,USD,0.872,174.26,2024-02-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 11,Inbound Logistics - Truck,200439.51,USD,2.944,590.09,2024-09-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 2,Manufacturing Equipment,90105.34,USD,2.889,260.31,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 10,Business Travel - Air,173497.87,USD,2.37,411.19,2024-07-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 15,Product Use Phase,95849.31,USD,0.181,17.35,2024-07-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 15,Inbound Logistics - Truck,343741.72,USD,2.824,970.73,2024-12-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 7,Raw Materials - Aluminum,474488.37,USD,2.766,1312.43,2024-10-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 12,Manufacturing Equipment,254054.13,USD,2.017,512.43,2024-06-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 9,Packaging Materials,96728.21,USD,2.012,194.62,2024-07-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 10,Manufacturing Equipment,203631.51,USD,2.509,510.91,2024-05-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 7,Product Use Phase,303724.12,USD,1.001,304.03,2024-08-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 9,Employee Commuting,397073.96,USD,2.882,1144.37,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 5,Inbound Logistics - Truck,332263.06,USD,1.877,623.66,2024-02-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 4,Office Supplies,74529.63,USD,0.186,13.86,2024-08-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 7,Product Use Phase,98023.18,USD,2.104,206.24,2024-08-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 3,Raw Materials - Steel,446437.25,USD,2.588,1155.38,2024-02-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 3,Inbound Logistics - Truck,232810.39,USD,1.694,394.38,2024-02-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 13,Employee Commuting,334121.29,USD,2.964,990.34,2024-10-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 10,Inbound Logistics - Truck,213943.64,USD,2.725,583.0,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 8,Manufacturing Equipment,376136.62,USD,2.528,950.87,2024-05-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 5,Employee Commuting,39664.19,USD,0.893,35.42,2024-05-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 15,Inbound Logistics - Truck,41208.25,USD,0.495,20.4,2024-07-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 2,Business Travel - Air,204392.09,USD,1.651,337.45,2024-07-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 14,Business Travel - Air,195348.93,USD,2.321,453.4,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 7,Employee Commuting,3942.15,USD,1.088,4.29,2024-07-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 12,Inbound Logistics - Truck,400134.22,USD,2.699,1079.96,2024-08-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 7,Employee Commuting,15483.39,USD,1.042,16.13,2024-11-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 14,Employee Commuting,459851.27,USD,2.943,1353.34,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 10,Product Use Phase,331836.88,USD,0.298,98.89,2024-07-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 3,Raw Materials - Steel,130818.0,USD,1.016,132.91,2024-08-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 13,Business Travel - Air,139850.05,USD,2.856,399.41,2024-07-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 8,Raw Materials - Steel,374763.11,USD,0.204,76.45,2024-06-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 13,Raw Materials - Steel,377362.37,USD,2.851,1075.86,2024-04-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 3,Office Supplies,63984.27,USD,2.025,129.57,2024-10-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 12,Manufacturing Equipment,383682.15,USD,0.545,209.11,2024-10-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 5,Raw Materials - Aluminum,289763.68,USD,2.79,808.44,2024-10-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 12,Office Supplies,38922.24,USD,2.087,81.23,2024-11-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 12,Manufacturing Equipment,425296.33,USD,1.821,774.46,2024-02-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 9,Business Travel - Air,331099.15,USD,0.253,83.77,2024-11-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 14,Business Travel - Air,411343.13,USD,0.361,148.49,2024-06-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 7,Packaging Materials,367163.86,USD,2.898,1064.04,2024-05-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 7,Product Use Phase,134929.37,USD,2.563,345.82,2024-02-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 4,Employee Commuting,285354.97,USD,2.021,576.7,2024-06-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 14,IT Hardware,91738.09,USD,0.676,62.01,2024-05-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 15,Product Use Phase,350890.69,USD,0.865,303.52,2024-01-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 4,Business Travel - Air,244800.35,USD,2.287,559.86,2024-12-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 8,Raw Materials - Steel,47433.62,USD,0.704,33.39,2024-12-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 11,Product Use Phase,185141.2,USD,1.683,311.59,2024-06-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 6,IT Hardware,351724.62,USD,0.849,298.61,2024-05-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 12,Office Supplies,158458.42,USD,2.241,355.11,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 4,Employee Commuting,138973.31,USD,1.789,248.62,2024-09-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 14,Office Supplies,148826.99,USD,1.115,165.94,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 3,Manufacturing Equipment,23712.33,USD,0.211,5.0,2024-05-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 2,Raw Materials - Steel,287458.05,USD,1.435,412.5,2024-08-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 1,Manufacturing Equipment,470590.73,USD,1.459,686.59,2024-02-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 2,Product Use Phase,315093.41,USD,0.208,65.54,2024-03-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 4,Raw Materials - Aluminum,279478.44,USD,1.278,357.17,2024-10-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 7,Employee Commuting,454343.68,USD,0.927,421.18,2024-10-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 10,Product Use Phase,31054.92,USD,2.882,89.5,2024-02-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 5,Raw Materials - Aluminum,79371.49,USD,0.563,44.69,2024-02-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 7,Employee Commuting,344996.2,USD,1.436,495.41,2024-01-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 12,Manufacturing Equipment,351790.79,USD,1.389,488.64,2024-11-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 13,Product Use Phase,330930.34,USD,2.804,927.93,2024-07-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 4,Packaging Materials,454297.31,USD,2.489,1130.75,2024-02-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 13,Manufacturing Equipment,297926.97,USD,2.482,739.45,2024-05-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 8,Manufacturing Equipment,350167.11,USD,2.831,991.32,2024-09-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 2,Product Use Phase,20890.53,USD,1.324,27.66,2024-06-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 2,Office Supplies,480993.64,USD,2.516,1210.18,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 10,Raw Materials - Steel,381791.39,USD,0.567,216.48,2024-09-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 3,Product Use Phase,218506.61,USD,2.452,535.78,2024-02-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 7,IT Hardware,161208.07,USD,0.359,57.87,2024-03-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 12,Employee Commuting,144820.68,USD,2.838,411.0,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 2,IT Hardware,126947.03,USD,0.392,49.76,2024-07-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 8,Business Travel - Air,28047.84,USD,1.579,44.29,2024-10-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 13,Raw Materials - Steel,102575.56,USD,1.67,171.3,2024-05-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 2,Raw Materials - Steel,486600.26,USD,1.846,898.26,2024-04-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 9,Raw Materials - Steel,276573.45,USD,0.325,89.89,2024-02-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 11,Packaging Materials,249689.38,USD,2.164,540.33,2024-09-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 14,Employee Commuting,490142.07,USD,0.769,376.92,2024-09-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 4,Product Use Phase,254612.2,USD,2.644,673.19,2024-02-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 6,Inbound Logistics - Truck,134319.16,USD,0.058,7.79,2024-12-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 10,Employee Commuting,432765.04,USD,1.367,591.59,2024-08-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 9,Inbound Logistics - Truck,189227.82,USD,2.802,530.22,2024-04-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 7,Office Supplies,428150.48,USD,1.262,540.33,2024-06-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 7,Packaging Materials,248169.0,USD,0.159,39.46,2024-09-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 14,Employee Commuting,50756.14,USD,2.736,138.87,2024-01-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 14,Packaging Materials,38339.3,USD,2.355,90.29,2024-05-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 12,Business Travel - Air,325268.49,USD,2.563,833.66,2024-11-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 11,Employee Commuting,436319.13,USD,0.156,68.07,2024-02-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 4,Raw Materials - Aluminum,217551.76,USD,0.34,73.97,2024-11-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 3,Manufacturing Equipment,451808.61,USD,0.186,84.04,2024-01-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 6,Business Travel - Air,73639.33,USD,1.617,119.07,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 3,Raw Materials - Aluminum,305136.4,USD,1.179,359.76,2024-11-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 15,Product Use Phase,72415.74,USD,1.41,102.11,2024-05-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 11,Raw Materials - Steel,449555.36,USD,1.422,639.27,2024-05-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 8,IT Hardware,493838.2,USD,0.933,460.75,2024-07-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 14,Manufacturing Equipment,100409.28,USD,1.185,118.98,2024-08-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 7,Product Use Phase,180120.62,USD,0.923,166.25,2024-12-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 14,Business Travel - Air,137965.71,USD,1.719,237.16,2024-11-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 12,Employee Commuting,416586.61,USD,2.714,1130.62,2024-04-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 11,Office Supplies,310824.69,USD,2.049,636.88,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 15,Raw Materials - Steel,155157.51,USD,1.35,209.46,2024-10-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 2,Manufacturing Equipment,164032.84,USD,1.276,209.31,2024-04-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 15,IT Hardware,265895.33,USD,2.745,729.88,2024-03-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 13,Manufacturing Equipment,373533.12,USD,1.049,391.84,2024-02-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 3,Office Supplies,430210.16,USD,2.186,940.44,2024-07-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 13,Business Travel - Air,7945.41,USD,1.633,12.97,2024-08-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 10,Business Travel - Air,411386.23,USD,2.824,1161.75,2024-02-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 1,Product Use Phase,442233.19,USD,1.706,754.45,2024-10-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 11,Employee Commuting,454784.43,USD,0.941,427.95,2024-07-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 1,Raw Materials - Steel,152877.93,USD,1.503,229.78,2024-02-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 3,Business Travel - Air,227368.23,USD,2.028,461.1,2024-12-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 12,Packaging Materials,442821.48,USD,1.982,877.67,2024-08-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 1,IT Hardware,109417.57,USD,1.362,149.03,2024-04-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 11,IT Hardware,272688.46,USD,2.935,800.34,2024-06-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 5,Office Supplies,484135.23,USD,2.85,1379.79,2024-08-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 11,Product Use Phase,485575.56,USD,0.199,96.63,2024-06-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 13,Product Use Phase,103397.58,USD,2.498,258.29,2024-09-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 4,Office Supplies,164951.22,USD,0.485,80.0,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 14,Packaging Materials,493776.12,USD,1.644,811.77,2024-03-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 3,Raw Materials - Steel,179762.9,USD,2.376,427.12,2024-10-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 3,Manufacturing Equipment,27147.11,USD,2.238,60.76,2024-09-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 8,Employee Commuting,389230.5,USD,1.564,608.76,2024-02-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 4,Product Use Phase,22639.15,USD,2.361,53.45,2024-11-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 11,Raw Materials - Steel,31351.88,USD,1.463,45.87,2024-07-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 8,Employee Commuting,37671.87,USD,0.288,10.85,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 3,Manufacturing Equipment,312534.43,USD,1.777,555.37,2024-12-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 10,Inbound Logistics - Truck,148153.98,USD,1.541,228.31,2024-07-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 14,Inbound Logistics - Truck,360699.12,USD,0.684,246.72,2024-08-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 6,Employee Commuting,199966.36,USD,2.202,440.33,2024-06-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 11,Manufacturing Equipment,187776.21,USD,0.5,93.89,2024-08-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 14,Raw Materials - Aluminum,47521.82,USD,0.335,15.92,2024-12-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 9,Raw Materials - Steel,293646.08,USD,1.707,501.25,2024-06-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 6,Business Travel - Air,434177.98,USD,2.177,945.21,2024-05-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 2,Product Use Phase,254198.86,USD,0.506,128.62,2024-08-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 6,Inbound Logistics - Truck,184412.96,USD,2.3,424.15,2024-10-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 14,Inbound Logistics - Truck,487298.75,USD,2.464,1200.7,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 15,Manufacturing Equipment,15447.64,USD,0.856,13.22,2024-05-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 1,Packaging Materials,435061.49,USD,1.721,748.74,2024-07-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 12,Raw Materials - Steel,46787.08,USD,1.615,75.56,2024-07-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 6,Packaging Materials,185656.49,USD,2.179,404.55,2024-10-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 3,Packaging Materials,377463.5,USD,0.197,74.36,2024-02-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 11,Business Travel - Air,243345.19,USD,1.354,329.49,2024-05-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 2,IT Hardware,215526.9,USD,0.886,190.96,2024-11-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 11,Manufacturing Equipment,23663.26,USD,1.216,28.77,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 4,Manufacturing Equipment,472716.72,USD,2.314,1093.87,2024-05-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 2,Raw Materials - Steel,249195.28,USD,1.32,328.94,2024-03-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 12,Office Supplies,250630.91,USD,2.508,628.58,2024-06-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 14,Raw Materials - Steel,218673.58,USD,1.406,307.46,2024-02-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 7,Product Use Phase,202807.02,USD,1.938,393.04,2024-05-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 1,IT Hardware,86764.72,USD,2.845,246.85,2024-08-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 7,Raw Materials - Aluminum,122414.92,USD,1.787,218.76,2024-09-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 14,Manufacturing Equipment,373156.61,USD,0.704,262.7,2024-03-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 11,Raw Materials - Aluminum,265771.81,USD,0.622,165.31,2024-06-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 4,Raw Materials - Aluminum,74075.66,USD,0.632,46.82,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 3,Employee Commuting,232512.58,USD,1.713,398.29,2024-10-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 11,Product Use Phase,162280.91,USD,2.914,472.89,2024-06-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 2,Employee Commuting,221661.82,USD,0.943,209.03,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 9,Raw Materials - Aluminum,155893.52,USD,1.383,215.6,2024-01-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 2,Raw Materials - Aluminum,307889.19,USD,1.546,476.0,2024-08-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 15,Product Use Phase,326266.89,USD,0.999,325.94,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 8,Raw Materials - Aluminum,405672.44,USD,2.52,1022.29,2024-12-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 11,Packaging Materials,20531.92,USD,2.137,43.88,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 6,Manufacturing Equipment,194320.86,USD,2.335,453.74,2024-11-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 2,IT Hardware,48158.47,USD,2.051,98.77,2024-05-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 14,Packaging Materials,167347.66,USD,1.769,296.04,2024-03-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 11,Business Travel - Air,65346.88,USD,2.141,139.91,2024-02-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 7,IT Hardware,406779.21,USD,2.027,824.54,2024-12-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 9,IT Hardware,10097.04,USD,0.961,9.7,2024-04-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 4,Office Supplies,499988.33,USD,0.507,253.49,2024-05-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 13,Inbound Logistics - Truck,417724.79,USD,2.657,1109.89,2024-01-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 3,Product Use Phase,188983.22,USD,0.529,99.97,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 1,Business Travel - Air,182785.41,USD,2.173,397.19,2024-08-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 4,Inbound Logistics - Truck,120345.08,USD,2.899,348.88,2024-08-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 11,Product Use Phase,492235.46,USD,1.412,695.04,2024-05-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 9,Business Travel - Air,483167.81,USD,2.46,1188.59,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 1,Employee Commuting,437184.36,USD,1.686,737.09,2024-02-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 2,Packaging Materials,137122.86,USD,2.721,373.11,2024-03-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 15,Office Supplies,408534.92,USD,2.66,1086.7,2024-01-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 7,Inbound Logistics - Truck,187606.78,USD,1.189,223.06,2024-02-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 1,IT Hardware,465482.13,USD,2.526,1175.81,2024-11-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 3,Raw Materials - Steel,144152.82,USD,2.498,360.09,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 8,Product Use Phase,3620.35,USD,0.284,1.03,2024-05-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 9,Product Use Phase,264357.98,USD,0.378,99.93,2024-05-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 2,Raw Materials - Steel,119981.31,USD,1.935,232.16,2024-10-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 2,Employee Commuting,298772.78,USD,0.098,29.28,2024-09-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 5,Business Travel - Air,1780.6,USD,1.091,1.94,2024-10-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 11,Raw Materials - Aluminum,262218.79,USD,1.114,292.11,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 14,Employee Commuting,22723.68,USD,1.191,27.06,2024-06-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 6,Raw Materials - Aluminum,173056.44,USD,2.212,382.8,2024-11-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 12,IT Hardware,67571.39,USD,1.089,73.59,2024-06-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 12,Employee Commuting,316236.19,USD,2.444,772.88,2024-02-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 5,Office Supplies,22859.33,USD,0.638,14.58,2024-01-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 9,Business Travel - Air,494572.23,USD,1.652,817.03,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 5,IT Hardware,431207.13,USD,0.191,82.36,2024-11-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 2,IT Hardware,219038.74,USD,1.23,269.42,2024-08-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 3,Employee Commuting,346342.18,USD,1.134,392.75,2024-09-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 12,Business Travel - Air,40384.58,USD,1.827,73.78,2024-03-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 2,Raw Materials - Aluminum,164632.03,USD,0.922,151.79,2024-08-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 12,Employee Commuting,176421.94,USD,0.175,30.87,2024-06-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 11,Raw Materials - Steel,38445.54,USD,1.931,74.24,2024-06-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 3,Product Use Phase,339366.35,USD,1.343,455.77,2024-03-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 13,IT Hardware,181713.14,USD,2.851,518.06,2024-01-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 6,IT Hardware,222525.71,USD,0.277,61.64,2024-03-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 6,Manufacturing Equipment,125556.21,USD,0.385,48.34,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 9,Business Travel - Air,456857.71,USD,0.397,181.37,2024-05-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 10,Manufacturing Equipment,347296.34,USD,2.996,1040.5,2024-04-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 14,Raw Materials - Aluminum,226569.3,USD,2.701,611.96,2024-08-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 11,IT Hardware,355060.7,USD,1.672,593.66,2024-05-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 12,Packaging Materials,397054.5,USD,1.551,615.83,2024-02-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 4,Employee Commuting,14115.73,USD,1.684,23.77,2024-06-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 3,Product Use Phase,442238.98,USD,0.244,107.91,2024-07-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 7,Business Travel - Air,411846.36,USD,0.268,110.37,2024-06-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 8,Inbound Logistics - Truck,172912.88,USD,2.64,456.49,2024-09-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 7,Inbound Logistics - Truck,455445.42,USD,0.213,97.01,2024-02-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 3,Packaging Materials,162007.71,USD,2.143,347.18,2024-06-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 5,Office Supplies,317893.49,USD,1.675,532.47,2024-03-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 9,Raw Materials - Aluminum,251784.0,USD,0.547,137.73,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 11,Product Use Phase,360595.75,USD,1.835,661.69,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 2,Raw Materials - Steel,474324.88,USD,2.325,1102.81,2024-05-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 7,Product Use Phase,319856.6,USD,1.519,485.86,2024-11-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 8,Office Supplies,402539.39,USD,2.071,833.66,2024-05-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 12,Raw Materials - Steel,79882.14,USD,1.276,101.93,2024-08-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 10,Packaging Materials,156978.67,USD,2.169,340.49,2024-12-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 3,IT Hardware,257975.09,USD,0.363,93.64,2024-04-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 5,Employee Commuting,124711.52,USD,0.336,41.9,2024-05-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 7,Office Supplies,481380.24,USD,2.712,1305.5,2024-06-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 13,Packaging Materials,249634.51,USD,1.568,391.43,2024-08-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 1,Raw Materials - Aluminum,472671.17,USD,1.541,728.39,2024-04-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 6,Raw Materials - Steel,26219.66,USD,1.51,39.59,2024-11-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 9,Raw Materials - Steel,423739.01,USD,1.321,559.76,2024-05-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 6,Raw Materials - Steel,200890.23,USD,1.732,347.94,2024-04-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 5,Raw Materials - Aluminum,193788.06,USD,1.379,267.23,2024-09-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 11,Product Use Phase,60286.7,USD,2.926,176.4,2024-07-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 9,IT Hardware,377727.62,USD,0.637,240.61,2024-09-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 1,Raw Materials - Steel,20418.07,USD,2.155,44.0,2024-08-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 10,Inbound Logistics - Truck,70750.71,USD,2.798,197.96,2024-06-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 10,Manufacturing Equipment,297268.6,USD,1.547,459.87,2024-09-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 5,Employee Commuting,408058.67,USD,1.137,463.96,2024-11-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 10,Manufacturing Equipment,398580.65,USD,2.19,872.89,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 8,Manufacturing Equipment,483568.28,USD,2.36,1141.22,2024-10-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 10,Employee Commuting,86085.52,USD,1.906,164.08,2024-10-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 14,Office Supplies,16753.69,USD,2.847,47.7,2024-02-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 8,IT Hardware,209971.37,USD,1.268,266.24,2024-04-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 13,Product Use Phase,460339.95,USD,2.625,1208.39,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 9,Office Supplies,280882.5,USD,2.994,840.96,2024-08-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 3,Employee Commuting,456149.96,USD,1.06,483.52,2024-06-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 8,Office Supplies,478711.36,USD,0.873,417.92,2024-05-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 13,Manufacturing Equipment,352745.57,USD,2.086,735.83,2024-08-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 6,Inbound Logistics - Truck,466916.49,USD,2.396,1118.73,2024-05-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 10,Inbound Logistics - Truck,190467.4,USD,2.941,560.16,2024-06-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 1,Manufacturing Equipment,477701.55,USD,0.283,135.19,2024-08-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 4,Office Supplies,414147.9,USD,0.85,352.03,2024-09-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 2,Product Use Phase,370704.6,USD,0.756,280.25,2024-01-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 1,Raw Materials - Aluminum,207237.38,USD,2.166,448.88,2024-02-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 9,Packaging Materials,204046.82,USD,2.808,572.96,2024-08-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 13,Manufacturing Equipment,161262.68,USD,1.955,315.27,2024-02-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 12,Raw Materials - Steel,456701.63,USD,0.566,258.49,2024-03-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 13,Employee Commuting,93969.5,USD,2.26,212.37,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 5,Product Use Phase,301788.7,USD,2.789,841.69,2024-06-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 11,Inbound Logistics - Truck,262634.95,USD,2.673,702.02,2024-03-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 4,Raw Materials - Aluminum,166011.36,USD,2.207,366.39,2024-11-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 1,IT Hardware,395593.06,USD,1.725,682.4,2024-04-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 14,Business Travel - Air,413667.92,USD,1.57,649.46,2024-02-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 3,Packaging Materials,239249.6,USD,2.811,672.53,2024-01-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 4,Employee Commuting,377124.57,USD,2.864,1080.08,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 11,IT Hardware,346691.53,USD,0.233,80.78,2024-02-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 3,Business Travel - Air,343350.74,USD,2.773,952.11,2024-12-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 11,Manufacturing Equipment,184404.41,USD,0.702,129.45,2024-03-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 8,Product Use Phase,187438.8,USD,2.121,397.56,2024-08-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 11,Product Use Phase,436694.39,USD,0.292,127.51,2024-08-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 15,Product Use Phase,56992.19,USD,2.495,142.2,2024-09-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 9,Packaging Materials,83104.04,USD,2.571,213.66,2024-08-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 12,Product Use Phase,244925.16,USD,2.702,661.79,2024-08-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 3,Inbound Logistics - Truck,208296.86,USD,1.714,357.02,2024-09-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 12,Raw Materials - Steel,198578.41,USD,2.459,488.3,2024-12-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 2,Raw Materials - Steel,212425.0,USD,2.116,449.49,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 15,Employee Commuting,16835.7,USD,1.256,21.15,2024-03-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 15,Business Travel - Air,224820.03,USD,2.755,619.38,2024-07-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 11,Inbound Logistics - Truck,67361.91,USD,2.588,174.33,2024-02-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 7,Inbound Logistics - Truck,64546.2,USD,2.937,189.57,2024-01-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 8,Inbound Logistics - Truck,212639.89,USD,1.169,248.58,2024-04-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 6,Packaging Materials,138549.21,USD,2.815,390.02,2024-12-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 13,Business Travel - Air,307846.68,USD,2.812,865.66,2024-01-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 2,Raw Materials - Aluminum,297378.13,USD,1.367,406.52,2024-11-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 12,Raw Materials - Steel,201730.41,USD,0.741,149.48,2024-04-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 9,Manufacturing Equipment,117846.6,USD,2.753,324.43,2024-10-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 10,IT Hardware,119215.11,USD,2.635,314.13,2024-11-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 5,Manufacturing Equipment,31417.86,USD,2.848,89.48,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 9,Employee Commuting,24395.16,USD,1.066,26.01,2024-11-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 6,Business Travel - Air,204721.33,USD,0.935,191.41,2024-03-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 14,Office Supplies,151067.47,USD,2.137,322.83,2024-08-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 7,Business Travel - Air,279086.09,USD,0.446,124.47,2024-04-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 6,Raw Materials - Aluminum,461190.83,USD,2.549,1175.58,2024-02-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 5,Business Travel - Air,337162.29,USD,1.829,616.67,2024-02-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 12,Inbound Logistics - Truck,109291.24,USD,0.666,72.79,2024-06-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 4,Office Supplies,481076.7,USD,0.396,190.51,2024-08-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 12,Office Supplies,198919.4,USD,0.756,150.38,2024-06-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 8,Inbound Logistics - Truck,324711.95,USD,0.96,311.72,2024-06-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 2,Employee Commuting,381052.86,USD,0.995,379.15,2024-04-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 7,Raw Materials - Steel,281699.84,USD,0.703,198.03,2024-03-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 9,Product Use Phase,289992.32,USD,1.282,371.77,2024-03-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 4,Business Travel - Air,285324.97,USD,0.775,221.13,2024-09-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 13,Employee Commuting,483287.63,USD,1.943,939.03,2024-08-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 12,IT Hardware,85463.59,USD,2.175,185.88,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 11,Raw Materials - Steel,262448.26,USD,2.525,662.68,2024-02-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 7,Packaging Materials,421429.81,USD,0.733,308.91,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 4,Inbound Logistics - Truck,228548.82,USD,0.228,52.11,2024-11-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 1,Raw Materials - Steel,266574.03,USD,1.263,336.68,2024-01-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 5,Raw Materials - Steel,251605.8,USD,2.109,530.64,2024-07-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 15,Raw Materials - Aluminum,262668.32,USD,0.761,199.89,2024-10-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 5,Business Travel - Air,40430.6,USD,2.88,116.44,2024-08-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 5,Raw Materials - Aluminum,327214.12,USD,2.582,844.87,2024-01-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 7,Business Travel - Air,276798.02,USD,0.216,59.79,2024-01-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 8,Business Travel - Air,322808.71,USD,1.027,331.52,2024-02-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 4,Product Use Phase,238274.64,USD,0.187,44.56,2024-02-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 10,Raw Materials - Steel,90497.9,USD,2.559,231.58,2024-01-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 3,Business Travel - Air,464508.6,USD,0.933,433.39,2024-10-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 14,Business Travel - Air,338840.45,USD,1.645,557.39,2024-07-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 9,IT Hardware,27794.52,USD,1.339,37.22,2024-02-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 13,Product Use Phase,477474.34,USD,1.22,582.52,2024-06-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 13,Employee Commuting,245811.12,USD,1.1,270.39,2024-07-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 11,Product Use Phase,330675.28,USD,0.303,100.19,2024-10-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 12,Raw Materials - Aluminum,41936.97,USD,0.505,21.18,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 6,IT Hardware,54168.91,USD,0.065,3.52,2024-05-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 13,Manufacturing Equipment,52013.48,USD,0.308,16.02,2024-07-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 9,Inbound Logistics - Truck,204614.04,USD,0.127,25.99,2024-06-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 10,IT Hardware,431995.37,USD,0.086,37.15,2024-07-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 12,Inbound Logistics - Truck,452698.58,USD,2.936,1329.12,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 3,Packaging Materials,135190.56,USD,0.842,113.83,2024-03-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 7,Manufacturing Equipment,211130.07,USD,1.478,312.05,2024-02-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 4,Employee Commuting,297309.39,USD,0.627,186.41,2024-02-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 1,Business Travel - Air,166776.39,USD,1.88,313.54,2024-06-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 7,Product Use Phase,68926.11,USD,0.996,68.65,2024-12-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 6,Packaging Materials,482322.74,USD,2.908,1402.59,2024-05-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 13,Office Supplies,163617.23,USD,0.877,143.49,2024-07-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 15,Product Use Phase,100700.22,USD,2.992,301.3,2024-03-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 12,Office Supplies,219789.02,USD,0.909,199.79,2024-12-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 11,Employee Commuting,70450.38,USD,0.943,66.43,2024-05-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 13,Business Travel - Air,37908.6,USD,2.973,112.7,2024-08-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 9,Business Travel - Air,272278.96,USD,2.383,648.84,2024-06-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 13,Office Supplies,329143.22,USD,1.097,361.07,2024-11-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 11,Business Travel - Air,483438.76,USD,1.028,496.98,2024-07-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 2,Manufacturing Equipment,111778.54,USD,2.253,251.84,2024-09-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 6,Business Travel - Air,232068.54,USD,2.055,476.9,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 1,Employee Commuting,53170.13,USD,1.277,67.9,2024-02-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 6,Manufacturing Equipment,172190.27,USD,2.364,407.06,2024-09-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 8,Raw Materials - Aluminum,219644.8,USD,2.105,462.35,2024-06-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 1,Raw Materials - Aluminum,12269.97,USD,1.062,13.03,2024-02-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 9,Packaging Materials,276403.23,USD,1.026,283.59,2024-07-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 13,Business Travel - Air,315250.4,USD,0.6,189.15,2024-11-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 1,Product Use Phase,441665.59,USD,1.376,607.73,2024-07-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 12,Office Supplies,103686.46,USD,2.269,235.26,2024-02-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 3,IT Hardware,163666.47,USD,1.4,229.13,2024-05-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 11,IT Hardware,298888.44,USD,1.853,553.84,2024-10-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 6,Employee Commuting,309063.98,USD,2.451,757.52,2024-12-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 10,Raw Materials - Aluminum,336382.93,USD,0.974,327.64,2024-04-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 3,IT Hardware,347024.83,USD,1.557,540.32,2024-07-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 7,Business Travel - Air,93691.1,USD,1.925,180.36,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 3,Employee Commuting,145128.55,USD,0.602,87.37,2024-08-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 1,Employee Commuting,69130.82,USD,2.455,169.72,2024-09-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 11,Employee Commuting,208399.59,USD,2.528,526.83,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 10,Raw Materials - Steel,398144.56,USD,0.701,279.1,2024-01-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 9,Manufacturing Equipment,84936.28,USD,1.399,118.83,2024-12-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 9,Raw Materials - Aluminum,286784.31,USD,0.84,240.9,2024-09-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 14,Raw Materials - Steel,380242.06,USD,1.352,514.09,2024-04-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 12,Office Supplies,149556.76,USD,2.998,448.37,2024-08-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 14,Raw Materials - Aluminum,220095.88,USD,2.982,656.33,2024-04-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 12,IT Hardware,430663.3,USD,1.85,796.73,2024-07-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 3,Office Supplies,406951.4,USD,2.426,987.26,2024-10-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 5,Product Use Phase,269845.5,USD,1.005,271.19,2024-12-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 10,Manufacturing Equipment,476246.28,USD,1.568,746.75,2024-11-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 13,Business Travel - Air,459465.59,USD,2.978,1368.29,2024-11-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 4,Packaging Materials,355986.03,USD,2.494,887.83,2024-11-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 3,Product Use Phase,316568.59,USD,1.902,602.11,2024-07-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 11,Raw Materials - Aluminum,202022.54,USD,2.262,456.97,2024-12-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 8,IT Hardware,291395.82,USD,2.613,761.42,2024-12-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 11,IT Hardware,425203.01,USD,2.397,1019.21,2024-07-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 14,Office Supplies,247862.76,USD,1.002,248.36,2024-05-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 10,Packaging Materials,283504.91,USD,1.482,420.15,2024-06-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 2,Employee Commuting,9124.39,USD,2.792,25.48,2024-03-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 1,Business Travel - Air,101956.78,USD,2.081,212.17,2024-03-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 14,Manufacturing Equipment,47576.65,USD,1.113,52.95,2024-02-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 1,Business Travel - Air,313176.53,USD,2.192,686.48,2024-04-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 12,Raw Materials - Aluminum,1542.07,USD,1.457,2.25,2024-03-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 11,Employee Commuting,5634.19,USD,2.102,11.84,2024-02-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 8,Raw Materials - Aluminum,115244.49,USD,0.314,36.19,2024-02-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 6,Manufacturing Equipment,69427.52,USD,2.332,161.9,2024-03-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 9,Product Use Phase,5228.9,USD,1.968,10.29,2024-08-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 11,Packaging Materials,460027.17,USD,1.867,858.87,2024-08-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 15,Raw Materials - Aluminum,70866.56,USD,0.413,29.27,2024-12-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 7,IT Hardware,395747.25,USD,0.781,309.08,2024-11-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 9,Product Use Phase,300403.93,USD,1.842,553.34,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 4,Inbound Logistics - Truck,303856.51,USD,0.607,184.44,2024-07-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 13,Office Supplies,247948.97,USD,0.383,94.96,2024-08-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 15,Raw Materials - Steel,493454.38,USD,2.805,1384.14,2024-03-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 7,IT Hardware,273631.75,USD,0.56,153.23,2024-08-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 10,Raw Materials - Aluminum,7882.92,USD,0.686,5.41,2024-01-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 5,Inbound Logistics - Truck,383787.89,USD,1.3,498.92,2024-07-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 9,Product Use Phase,77187.54,USD,0.297,22.92,2024-02-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 9,IT Hardware,195975.02,USD,1.921,376.47,2024-11-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 12,Business Travel - Air,365249.23,USD,2.547,930.29,2024-01-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 15,Business Travel - Air,58877.3,USD,1.856,109.28,2024-01-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 2,Raw Materials - Steel,354242.4,USD,2.119,750.64,2024-03-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 9,Inbound Logistics - Truck,391710.56,USD,2.176,852.36,2024-03-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 12,Manufacturing Equipment,366734.98,USD,0.398,145.96,2024-01-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 5,Inbound Logistics - Truck,32872.12,USD,2.151,70.71,2024-10-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 8,Inbound Logistics - Truck,180701.82,USD,1.524,275.39,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 3,Manufacturing Equipment,386891.15,USD,2.688,1039.96,2024-11-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 12,Inbound Logistics - Truck,2281.68,USD,2.583,5.89,2024-01-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 8,IT Hardware,192106.76,USD,0.493,94.71,2024-01-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 6,Office Supplies,208712.04,USD,2.175,453.95,2024-05-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 6,Raw Materials - Aluminum,251518.43,USD,2.711,681.87,2024-03-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 1,Business Travel - Air,35394.29,USD,1.422,50.33,2024-05-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 2,Inbound Logistics - Truck,228916.34,USD,1.138,260.51,2024-05-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 4,Employee Commuting,184768.54,USD,2.917,538.97,2024-04-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 1,Business Travel - Air,12931.22,USD,1.648,21.31,2024-11-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 1,Business Travel - Air,424653.99,USD,2.195,932.12,2024-02-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 4,Business Travel - Air,246522.41,USD,0.227,55.96,2024-03-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 1,Office Supplies,448746.45,USD,1.583,710.37,2024-12-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 12,Raw Materials - Aluminum,290804.54,USD,1.541,448.13,2024-11-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 10,Product Use Phase,32079.15,USD,2.004,64.29,2024-03-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 5,IT Hardware,463094.93,USD,1.209,559.88,2024-12-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 8,Manufacturing Equipment,117572.0,USD,2.833,333.08,2024-03-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 2,Packaging Materials,225333.81,USD,0.976,219.93,2024-02-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 8,Manufacturing Equipment,232209.95,USD,2.565,595.62,2024-02-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 14,Product Use Phase,21124.57,USD,2.516,53.15,2024-06-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 12,Office Supplies,484231.6,USD,1.219,590.28,2024-01-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 14,Packaging Materials,16509.96,USD,1.243,20.52,2024-08-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 8,Raw Materials - Aluminum,402144.48,USD,0.462,185.79,2024-01-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 3,Office Supplies,412013.03,USD,1.148,472.99,2024-11-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 10,Manufacturing Equipment,458796.86,USD,0.271,124.33,2024-02-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 13,Packaging Materials,46897.34,USD,2.549,119.54,2024-06-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 8,Raw Materials - Steel,84826.62,USD,1.743,147.85,2024-12-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 1,Business Travel - Air,341923.25,USD,0.56,191.48,2024-04-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 5,Employee Commuting,441828.48,USD,0.152,67.16,2024-10-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 8,Business Travel - Air,441506.51,USD,1.463,645.92,2024-02-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 3,Business Travel - Air,100529.45,USD,2.66,267.41,2024-09-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 13,Raw Materials - Steel,494712.4,USD,2.357,1166.04,2024-06-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 13,Employee Commuting,172673.03,USD,1.719,296.82,2024-06-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 3,Raw Materials - Steel,160119.91,USD,0.696,111.44,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 9,IT Hardware,383654.24,USD,2.999,1150.58,2024-03-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 11,Office Supplies,133996.97,USD,2.458,329.36,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 10,Business Travel - Air,178047.51,USD,2.526,449.75,2024-03-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 10,IT Hardware,403298.9,USD,2.108,850.15,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 10,Product Use Phase,71909.04,USD,2.848,204.8,2024-08-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 8,Raw Materials - Steel,46038.43,USD,0.736,33.88,2024-04-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 8,Raw Materials - Steel,166535.26,USD,1.862,310.09,2024-03-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 15,IT Hardware,30718.43,USD,0.486,14.93,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 14,Inbound Logistics - Truck,430474.06,USD,2.884,1241.49,2024-06-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 2,IT Hardware,151580.81,USD,0.453,68.67,2024-03-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 11,IT Hardware,87927.13,USD,2.908,255.69,2024-12-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 11,Product Use Phase,407412.66,USD,1.166,475.04,2024-12-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 3,Raw Materials - Steel,474445.26,USD,2.849,1351.69,2024-07-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 10,IT Hardware,460598.07,USD,2.904,1337.58,2024-04-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 3,IT Hardware,372926.32,USD,0.752,280.44,2024-06-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 14,IT Hardware,223868.34,USD,0.832,186.26,2024-04-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 5,Raw Materials - Aluminum,360486.38,USD,0.192,69.21,2024-08-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 15,Business Travel - Air,247047.91,USD,1.167,288.3,2024-09-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 14,Employee Commuting,394576.27,USD,1.755,692.48,2024-11-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 8,Raw Materials - Aluminum,399798.09,USD,0.149,59.57,2024-01-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 2,Raw Materials - Aluminum,171562.29,USD,2.669,457.9,2024-03-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 15,Raw Materials - Aluminum,169637.34,USD,2.957,501.62,2024-08-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 11,Packaging Materials,304051.5,USD,1.331,404.69,2024-01-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 4,Office Supplies,205230.65,USD,1.685,345.81,2024-12-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 5,Office Supplies,48862.04,USD,1.209,59.07,2024-09-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 1,IT Hardware,2903.97,USD,0.309,0.9,2024-11-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 2,Raw Materials - Steel,104269.54,USD,1.933,201.55,2024-02-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 5,Business Travel - Air,236001.28,USD,2.69,634.84,2024-05-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 7,Packaging Materials,186139.24,USD,1.175,218.71,2024-03-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 5,Employee Commuting,233063.92,USD,0.717,167.11,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 13,Raw Materials - Aluminum,43767.95,USD,1.064,46.57,2024-09-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 4,Inbound Logistics - Truck,31430.89,USD,1.192,37.47,2024-09-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 11,Employee Commuting,286784.43,USD,0.745,213.65,2024-05-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 15,Raw Materials - Steel,251548.63,USD,2.706,680.69,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 13,Employee Commuting,87266.61,USD,2.954,257.79,2024-04-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 1,Business Travel - Air,40105.89,USD,2.065,82.82,2024-04-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 5,IT Hardware,455491.44,USD,2.747,1251.23,2024-02-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 9,Business Travel - Air,276475.04,USD,2.577,712.48,2024-09-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 13,Product Use Phase,294200.47,USD,2.356,693.14,2024-02-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 3,Product Use Phase,294379.13,USD,2.287,673.25,2024-02-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 13,Raw Materials - Aluminum,393087.07,USD,2.609,1025.56,2024-06-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 7,Employee Commuting,286439.6,USD,1.445,413.91,2024-03-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 3,Product Use Phase,304718.98,USD,2.096,638.69,2024-01-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 12,Office Supplies,25596.2,USD,1.452,37.17,2024-05-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 6,Manufacturing Equipment,156163.7,USD,2.536,396.03,2024-12-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 3,Manufacturing Equipment,487135.49,USD,1.357,661.04,2024-06-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 10,Raw Materials - Aluminum,94779.91,USD,0.674,63.88,2024-07-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 14,IT Hardware,410687.68,USD,1.57,644.78,2024-03-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 12,Inbound Logistics - Truck,202289.19,USD,2.353,475.99,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 4,Office Supplies,418651.36,USD,0.786,329.06,2024-08-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 12,Office Supplies,137714.77,USD,2.479,341.39,2024-09-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 11,Raw Materials - Steel,121727.11,USD,1.492,181.62,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 10,Inbound Logistics - Truck,175530.19,USD,0.532,93.38,2024-05-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 1,Business Travel - Air,25775.87,USD,2.569,66.22,2024-04-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 11,Office Supplies,135272.71,USD,1.258,170.17,2024-01-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 15,Packaging Materials,324038.41,USD,1.823,590.72,2024-01-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 10,Manufacturing Equipment,356657.5,USD,2.143,764.32,2024-05-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 14,IT Hardware,230040.01,USD,0.694,159.65,2024-05-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 2,Raw Materials - Steel,256245.35,USD,2.004,513.52,2024-06-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 11,Raw Materials - Aluminum,241387.47,USD,1.042,251.53,2024-05-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 5,Manufacturing Equipment,94991.68,USD,1.576,149.71,2024-04-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 7,IT Hardware,340697.12,USD,2.178,742.04,2024-11-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 5,Business Travel - Air,202894.85,USD,2.223,451.04,2024-10-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 12,Office Supplies,343472.74,USD,1.933,663.93,2024-08-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 5,Packaging Materials,420478.71,USD,2.636,1108.38,2024-03-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 8,Packaging Materials,370718.53,USD,2.189,811.5,2024-09-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 11,Raw Materials - Aluminum,111904.5,USD,0.709,79.34,2024-05-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 6,Manufacturing Equipment,293199.78,USD,1.418,415.76,2024-02-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 14,Product Use Phase,290576.24,USD,1.881,546.57,2024-08-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 2,Business Travel - Air,265389.41,USD,1.269,336.78,2024-03-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 6,Business Travel - Air,493608.61,USD,2.684,1324.85,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 14,Packaging Materials,389691.65,USD,1.488,579.86,2024-11-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 11,Raw Materials - Steel,3352.04,USD,0.857,2.87,2024-03-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 13,Raw Materials - Aluminum,65573.57,USD,1.329,87.15,2024-07-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 8,Business Travel - Air,3329.9,USD,1.625,5.41,2024-12-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 15,IT Hardware,378667.02,USD,1.617,612.3,2024-01-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 4,IT Hardware,156734.04,USD,0.353,55.33,2024-09-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 2,Raw Materials - Steel,149802.92,USD,0.908,136.02,2024-12-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 15,Packaging Materials,172023.69,USD,2.709,466.01,2024-06-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 15,Business Travel - Air,10543.24,USD,0.712,7.51,2024-03-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 10,Inbound Logistics - Truck,85323.39,USD,1.131,96.5,2024-11-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 15,Manufacturing Equipment,385853.58,USD,1.888,728.49,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 11,Raw Materials - Steel,25069.29,USD,0.392,9.83,2024-08-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 9,Manufacturing Equipment,237723.77,USD,0.502,119.34,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 7,Raw Materials - Aluminum,331579.0,USD,0.846,280.52,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 14,Raw Materials - Aluminum,256280.81,USD,1.872,479.76,2024-05-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 8,Office Supplies,304891.9,USD,2.345,714.97,2024-09-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 12,Business Travel - Air,148380.25,USD,0.166,24.63,2024-08-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 6,Office Supplies,2366.26,USD,2.031,4.81,2024-02-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 2,Inbound Logistics - Truck,38449.06,USD,2.185,84.01,2024-05-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 5,Manufacturing Equipment,232674.4,USD,0.344,80.04,2024-03-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 6,IT Hardware,213571.61,USD,0.392,83.72,2024-01-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 11,Packaging Materials,165001.75,USD,2.689,443.69,2024-10-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 6,IT Hardware,92251.84,USD,1.232,113.65,2024-08-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 12,Employee Commuting,400149.65,USD,1.964,785.89,2024-03-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 12,Raw Materials - Steel,490803.02,USD,2.541,1247.13,2024-02-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 8,Product Use Phase,339518.17,USD,0.585,198.62,2024-07-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 1,Packaging Materials,242056.75,USD,1.49,360.66,2024-07-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 2,Manufacturing Equipment,327831.81,USD,0.086,28.19,2024-11-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 9,Inbound Logistics - Truck,344432.58,USD,1.874,645.47,2024-07-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 6,Business Travel - Air,75178.57,USD,2.488,187.04,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 11,Packaging Materials,253278.22,USD,1.434,363.2,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 13,Employee Commuting,160996.27,USD,1.026,165.18,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 4,Inbound Logistics - Truck,322015.34,USD,1.24,399.3,2024-04-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 8,Product Use Phase,224601.19,USD,2.577,578.8,2024-08-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 8,Raw Materials - Steel,52219.02,USD,1.266,66.11,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 13,Product Use Phase,481622.45,USD,1.931,930.01,2024-09-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 6,IT Hardware,412830.18,USD,2.459,1015.15,2024-08-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 13,Product Use Phase,300375.62,USD,2.164,650.01,2024-06-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 2,Office Supplies,2096.28,USD,1.098,2.3,2024-11-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 9,IT Hardware,351345.93,USD,0.185,65.0,2024-03-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 14,Business Travel - Air,54373.79,USD,1.852,100.7,2024-04-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 4,Employee Commuting,412452.52,USD,0.612,252.42,2024-06-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 1,Product Use Phase,62486.38,USD,2.681,167.53,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 1,Inbound Logistics - Truck,368370.75,USD,1.682,619.6,2024-07-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 13,Packaging Materials,346217.04,USD,0.562,194.57,2024-03-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 11,Product Use Phase,303474.23,USD,0.999,303.17,2024-07-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 15,Office Supplies,137524.34,USD,2.893,397.86,2024-05-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 3,Business Travel - Air,301659.7,USD,2.665,803.92,2024-09-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 14,IT Hardware,356225.3,USD,2.81,1000.99,2024-11-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 4,Product Use Phase,357477.88,USD,2.076,742.12,2024-11-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 9,Inbound Logistics - Truck,347461.67,USD,1.001,347.81,2024-02-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 8,Product Use Phase,285748.46,USD,2.018,576.64,2024-07-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 13,Raw Materials - Steel,261842.26,USD,0.125,32.73,2024-03-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 4,Manufacturing Equipment,375342.32,USD,0.525,197.05,2024-05-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 14,Raw Materials - Steel,345606.83,USD,0.921,318.3,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 14,Employee Commuting,52137.52,USD,2.611,136.13,2024-12-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 7,Office Supplies,255950.23,USD,2.401,614.54,2024-12-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 15,Business Travel - Air,194389.77,USD,2.872,558.29,2024-11-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 1,Raw Materials - Steel,372091.31,USD,0.649,241.49,2024-08-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 13,Product Use Phase,273760.95,USD,1.83,500.98,2024-12-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 8,Packaging Materials,491743.21,USD,0.27,132.77,2024-03-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 1,Business Travel - Air,140277.01,USD,0.83,116.43,2024-03-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 6,Employee Commuting,355134.96,USD,0.507,180.05,2024-03-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 1,Product Use Phase,421726.85,USD,0.938,395.58,2024-10-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 13,IT Hardware,263172.14,USD,2.873,756.09,2024-09-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 3,Business Travel - Air,271997.0,USD,1.24,337.28,2024-06-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 11,IT Hardware,166202.2,USD,0.916,152.24,2024-10-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 14,Raw Materials - Steel,58246.25,USD,1.071,62.38,2024-04-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 11,IT Hardware,191304.93,USD,2.399,458.94,2024-02-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 9,Manufacturing Equipment,13328.16,USD,1.575,20.99,2024-06-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 1,Manufacturing Equipment,449242.52,USD,0.618,277.63,2024-09-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 3,Inbound Logistics - Truck,267069.71,USD,1.899,507.17,2024-04-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 14,Raw Materials - Aluminum,103584.2,USD,2.495,258.44,2024-12-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 12,Packaging Materials,12852.72,USD,2.165,27.83,2024-01-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 1,Packaging Materials,397313.18,USD,1.696,673.84,2024-10-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 7,Business Travel - Air,226111.71,USD,1.243,281.06,2024-06-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 11,Raw Materials - Aluminum,267882.35,USD,1.942,520.23,2024-10-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 1,Raw Materials - Aluminum,179492.37,USD,1.533,275.16,2024-05-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 2,Manufacturing Equipment,382871.85,USD,1.341,513.43,2024-07-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 3,Inbound Logistics - Truck,110713.0,USD,2.253,249.44,2024-09-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 5,IT Hardware,478738.43,USD,0.083,39.74,2024-09-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 1,Raw Materials - Steel,286786.58,USD,1.213,347.87,2024-09-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 4,IT Hardware,106656.73,USD,2.722,290.32,2024-09-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 3,Office Supplies,308825.58,USD,0.796,245.83,2024-02-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 14,Raw Materials - Steel,425842.47,USD,2.8,1192.36,2024-09-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 2,Manufacturing Equipment,336170.94,USD,0.79,265.58,2024-04-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 6,Packaging Materials,335976.49,USD,0.742,249.29,2024-05-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 6,Employee Commuting,225872.34,USD,1.868,421.93,2024-05-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 10,IT Hardware,404042.18,USD,2.878,1162.83,2024-03-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 4,Office Supplies,356387.36,USD,1.94,691.39,2024-05-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 11,IT Hardware,439065.03,USD,1.415,621.28,2024-06-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 9,Raw Materials - Aluminum,88709.31,USD,1.84,163.23,2024-05-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 4,Manufacturing Equipment,367038.76,USD,1.899,697.01,2024-12-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 14,Inbound Logistics - Truck,316181.62,USD,2.447,773.7,2024-10-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 4,Raw Materials - Steel,276245.41,USD,1.653,456.63,2024-09-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 6,Business Travel - Air,112430.02,USD,2.328,261.74,2024-12-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 8,Inbound Logistics - Truck,255695.58,USD,1.221,312.2,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 14,Product Use Phase,342396.67,USD,2.284,782.03,2024-03-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 3,Product Use Phase,474407.2,USD,1.995,946.44,2024-03-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 1,Office Supplies,380974.72,USD,0.734,279.64,2024-05-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 1,Office Supplies,259424.73,USD,2.385,618.73,2024-07-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 15,Raw Materials - Steel,20912.44,USD,1.963,41.05,2024-02-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 10,Inbound Logistics - Truck,285509.92,USD,1.161,331.48,2024-07-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 11,Raw Materials - Aluminum,258814.79,USD,1.16,300.23,2024-04-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 14,IT Hardware,243943.92,USD,1.472,359.09,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 15,Packaging Materials,220509.45,USD,0.728,160.53,2024-09-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 3,Packaging Materials,79521.32,USD,1.826,145.21,2024-02-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 13,IT Hardware,360407.57,USD,1.47,529.8,2024-08-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 10,Packaging Materials,323982.36,USD,1.262,408.87,2024-04-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 10,Product Use Phase,81403.44,USD,1.907,155.24,2024-01-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 3,Manufacturing Equipment,461300.99,USD,1.574,726.09,2024-07-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 2,Office Supplies,225152.48,USD,2.979,670.73,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 14,Business Travel - Air,300818.52,USD,2.394,720.16,2024-03-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 12,IT Hardware,461253.62,USD,1.81,834.87,2024-02-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 7,Packaging Materials,55176.49,USD,0.647,35.7,2024-09-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 10,Raw Materials - Aluminum,89533.67,USD,2.71,242.64,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 9,Raw Materials - Aluminum,47501.79,USD,1.995,94.77,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 9,Business Travel - Air,185818.35,USD,0.178,33.08,2024-09-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 13,Employee Commuting,394988.24,USD,1.175,464.11,2024-10-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 3,Manufacturing Equipment,239093.48,USD,0.736,175.97,2024-02-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 15,Inbound Logistics - Truck,204914.71,USD,0.608,124.59,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 9,Raw Materials - Aluminum,260361.16,USD,1.156,300.98,2024-04-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 6,Raw Materials - Aluminum,78234.51,USD,1.972,154.28,2024-05-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 7,Product Use Phase,183456.4,USD,0.863,158.32,2024-11-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 7,Inbound Logistics - Truck,392110.42,USD,1.473,577.58,2024-06-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 5,Product Use Phase,172833.8,USD,2.131,368.31,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 12,Office Supplies,223850.84,USD,2.113,473.0,2024-03-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 9,Business Travel - Air,393254.48,USD,2.413,948.92,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 7,Raw Materials - Steel,402380.31,USD,2.479,997.5,2024-08-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 2,Manufacturing Equipment,111663.35,USD,0.286,31.94,2024-01-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 10,Inbound Logistics - Truck,143948.15,USD,2.892,416.3,2024-01-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 8,Raw Materials - Steel,101651.91,USD,1.988,202.08,2024-09-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 1,Product Use Phase,255763.38,USD,2.11,539.66,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 6,Office Supplies,327854.54,USD,2.928,959.96,2024-02-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 6,Business Travel - Air,203320.03,USD,0.641,130.33,2024-01-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 9,Manufacturing Equipment,363343.22,USD,1.699,617.32,2024-10-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 14,Manufacturing Equipment,113921.46,USD,2.891,329.35,2024-08-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 1,Manufacturing Equipment,88342.36,USD,1.543,136.31,2024-09-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 5,IT Hardware,473560.72,USD,2.419,1145.54,2024-05-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 7,Product Use Phase,242331.32,USD,0.768,186.11,2024-06-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 15,Product Use Phase,431149.62,USD,1.472,634.65,2024-05-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 11,Office Supplies,338779.58,USD,0.728,246.63,2024-06-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 9,Inbound Logistics - Truck,5851.87,USD,2.505,14.66,2024-04-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 7,IT Hardware,38938.38,USD,2.798,108.95,2024-08-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 4,Product Use Phase,135268.82,USD,2.844,384.7,2024-11-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 12,Office Supplies,118195.82,USD,0.764,90.3,2024-05-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 4,Office Supplies,418331.02,USD,1.1,460.16,2024-02-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 11,Employee Commuting,307299.66,USD,2.305,708.33,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 6,Product Use Phase,158393.04,USD,2.699,427.5,2024-10-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 3,Inbound Logistics - Truck,140853.04,USD,0.705,99.3,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 9,Business Travel - Air,239681.72,USD,1.645,394.28,2024-09-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 14,Packaging Materials,229140.82,USD,0.405,92.8,2024-09-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 12,Raw Materials - Steel,6898.17,USD,0.672,4.64,2024-10-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 6,Product Use Phase,431059.17,USD,0.602,259.5,2024-05-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 8,Product Use Phase,172205.13,USD,0.593,102.12,2024-07-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 12,IT Hardware,183173.92,USD,1.232,225.67,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 3,Product Use Phase,343319.94,USD,2.452,841.82,2024-12-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 9,Business Travel - Air,428298.06,USD,0.628,268.97,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 13,Raw Materials - Steel,89127.03,USD,1.524,135.83,2024-11-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 5,Manufacturing Equipment,281507.09,USD,1.725,485.6,2024-07-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 1,Office Supplies,407095.22,USD,1.456,592.73,2024-11-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 12,IT Hardware,130624.79,USD,1.113,145.39,2024-09-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 1,Business Travel - Air,61497.51,USD,2.609,160.45,2024-10-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 10,Inbound Logistics - Truck,88094.88,USD,2.352,207.2,2024-06-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 8,Employee Commuting,444926.59,USD,1.174,522.34,2024-05-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 14,Packaging Materials,320649.75,USD,2.789,894.29,2024-07-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 2,Packaging Materials,172469.12,USD,0.975,168.16,2024-11-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 10,Business Travel - Air,136352.8,USD,1.362,185.71,2024-06-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 3,Packaging Materials,427251.71,USD,0.419,179.02,2024-04-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 4,Packaging Materials,199125.75,USD,0.332,66.11,2024-08-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 13,Business Travel - Air,262467.41,USD,2.988,784.25,2024-02-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 3,Raw Materials - Aluminum,327761.51,USD,2.662,872.5,2024-05-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 12,Manufacturing Equipment,222137.05,USD,0.423,93.96,2024-09-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 1,IT Hardware,430324.04,USD,1.009,434.2,2024-08-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 15,Manufacturing Equipment,274724.09,USD,0.449,123.35,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 10,Employee Commuting,315892.71,USD,1.926,608.41,2024-10-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 11,Inbound Logistics - Truck,155521.0,USD,1.074,167.03,2024-09-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 8,Manufacturing Equipment,183525.88,USD,0.816,149.76,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 9,Packaging Materials,172598.57,USD,1.434,247.51,2024-01-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 5,Raw Materials - Steel,383168.73,USD,2.404,921.14,2024-10-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 9,IT Hardware,95096.92,USD,2.652,252.2,2024-07-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 3,Business Travel - Air,414385.0,USD,0.701,290.48,2024-02-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 9,Product Use Phase,403979.9,USD,2.07,836.24,2024-05-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 4,Raw Materials - Aluminum,92021.18,USD,0.904,83.19,2024-11-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 8,Manufacturing Equipment,350535.83,USD,1.501,526.15,2024-06-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 1,Inbound Logistics - Truck,12043.31,USD,2.918,35.14,2024-05-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 12,Employee Commuting,363826.43,USD,0.737,268.14,2024-03-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 4,IT Hardware,210701.27,USD,2.368,498.94,2024-08-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 12,Raw Materials - Steel,165794.07,USD,2.538,420.79,2024-03-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 13,Business Travel - Air,36620.96,USD,1.437,52.62,2024-04-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 14,Raw Materials - Steel,61858.82,USD,2.316,143.27,2024-04-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 4,Raw Materials - Steel,100390.76,USD,2.219,222.77,2024-02-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 7,Manufacturing Equipment,468171.41,USD,0.518,242.51,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 9,Raw Materials - Aluminum,127403.06,USD,1.934,246.4,2024-04-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 14,Office Supplies,486663.76,USD,0.746,363.05,2024-07-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 3,Manufacturing Equipment,292763.73,USD,1.218,356.59,2024-04-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 10,Employee Commuting,344514.86,USD,0.507,174.67,2024-02-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 8,Raw Materials - Aluminum,343286.38,USD,1.048,359.76,2024-11-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 6,Packaging Materials,350962.74,USD,2.385,837.05,2024-03-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 6,Inbound Logistics - Truck,394492.35,USD,2.282,900.23,2024-08-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 12,Business Travel - Air,179725.58,USD,0.447,80.34,2024-01-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 9,Manufacturing Equipment,271824.3,USD,1.496,406.65,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 6,IT Hardware,366468.8,USD,0.862,315.9,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 9,Packaging Materials,225242.72,USD,2.467,555.67,2024-09-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 1,Inbound Logistics - Truck,190142.74,USD,0.597,113.52,2024-01-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 4,IT Hardware,360780.78,USD,1.992,718.68,2024-09-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 9,Employee Commuting,383101.31,USD,0.505,193.47,2024-05-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 11,IT Hardware,56121.6,USD,1.593,89.4,2024-02-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 3,Raw Materials - Steel,101837.44,USD,1.482,150.92,2024-02-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 11,Business Travel - Air,329302.71,USD,1.601,527.21,2024-12-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 6,Office Supplies,303370.86,USD,0.259,78.57,2024-04-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 8,Raw Materials - Steel,181102.1,USD,2.243,406.21,2024-07-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 14,Product Use Phase,133642.0,USD,0.17,22.72,2024-02-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 4,Inbound Logistics - Truck,49462.51,USD,2.189,108.27,2024-09-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 4,Inbound Logistics - Truck,328781.38,USD,1.732,569.45,2024-03-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 13,Product Use Phase,179623.72,USD,1.403,252.01,2024-11-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 3,Packaging Materials,275432.77,USD,1.539,423.89,2024-11-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 10,Employee Commuting,466826.46,USD,2.712,1266.03,2024-09-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 7,Business Travel - Air,413251.33,USD,1.004,414.9,2024-04-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 13,Inbound Logistics - Truck,463147.31,USD,0.8,370.52,2024-08-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 1,Raw Materials - Steel,491495.28,USD,1.808,888.62,2024-09-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 1,Manufacturing Equipment,492212.82,USD,0.684,336.67,2024-06-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 15,Inbound Logistics - Truck,256124.47,USD,1.733,443.86,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 1,Employee Commuting,178472.22,USD,0.458,81.74,2024-06-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 5,Manufacturing Equipment,46860.66,USD,1.229,57.59,2024-04-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 13,Employee Commuting,87278.34,USD,2.486,216.97,2024-12-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 11,Manufacturing Equipment,19648.43,USD,2.435,47.84,2024-07-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 15,IT Hardware,174617.17,USD,2.461,429.73,2024-07-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 12,Product Use Phase,464397.93,USD,1.92,891.64,2024-11-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 5,Inbound Logistics - Truck,21549.94,USD,1.643,35.41,2024-03-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 12,Office Supplies,77445.54,USD,2.037,157.76,2024-07-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 10,Inbound Logistics - Truck,45951.39,USD,1.324,60.84,2024-07-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 6,Raw Materials - Aluminum,238451.47,USD,2.249,536.28,2024-09-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 2,Business Travel - Air,251409.73,USD,2.333,586.54,2024-03-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 9,Office Supplies,244442.69,USD,1.974,482.53,2024-04-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 2,Manufacturing Equipment,388609.18,USD,1.004,390.16,2024-10-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 11,Business Travel - Air,212346.76,USD,1.078,228.91,2024-06-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 11,Raw Materials - Steel,385070.96,USD,0.549,211.4,2024-06-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 3,Employee Commuting,23393.9,USD,2.464,57.64,2024-04-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 13,Raw Materials - Aluminum,57073.5,USD,0.211,12.04,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 1,IT Hardware,347203.82,USD,0.378,131.24,2024-08-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 6,Office Supplies,370266.48,USD,0.675,249.93,2024-09-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 8,Product Use Phase,365231.87,USD,0.467,170.56,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 10,Inbound Logistics - Truck,22697.52,USD,0.552,12.53,2024-05-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 5,Raw Materials - Steel,233015.45,USD,2.838,661.3,2024-02-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 11,IT Hardware,432276.85,USD,0.106,45.82,2024-11-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 7,Inbound Logistics - Truck,488329.36,USD,0.344,167.99,2024-06-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 9,Raw Materials - Aluminum,94022.28,USD,1.527,143.57,2024-08-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 4,Inbound Logistics - Truck,153158.83,USD,1.495,228.97,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 6,IT Hardware,178333.69,USD,0.942,167.99,2024-09-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 11,Manufacturing Equipment,439459.96,USD,2.677,1176.43,2024-01-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 3,IT Hardware,448690.48,USD,1.988,892.0,2024-02-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 11,Product Use Phase,436478.03,USD,2.075,905.69,2024-07-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 3,Business Travel - Air,485298.05,USD,2.734,1326.8,2024-06-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 3,Office Supplies,326583.85,USD,1.764,576.09,2024-11-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 5,Inbound Logistics - Truck,454871.79,USD,1.319,599.98,2024-03-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 2,Inbound Logistics - Truck,266947.81,USD,2.172,579.81,2024-03-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 12,Raw Materials - Steel,382952.07,USD,2.646,1013.29,2024-07-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 8,Manufacturing Equipment,76826.57,USD,0.604,46.4,2024-03-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 13,Product Use Phase,308856.31,USD,1.837,567.37,2024-10-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 4,Office Supplies,344001.56,USD,1.11,381.84,2024-12-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 9,Product Use Phase,234912.99,USD,1.966,461.84,2024-03-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 8,Packaging Materials,82729.4,USD,0.718,59.4,2024-07-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 7,Office Supplies,371440.96,USD,2.965,1101.32,2024-04-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 15,Employee Commuting,433697.37,USD,1.495,648.38,2024-06-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 7,Business Travel - Air,388331.14,USD,1.843,715.69,2024-07-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 10,Product Use Phase,297309.09,USD,1.599,475.4,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 2,Employee Commuting,228993.31,USD,2.639,604.31,2024-04-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 9,Business Travel - Air,258547.21,USD,1.91,493.83,2024-01-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 8,Business Travel - Air,442314.39,USD,2.332,1031.48,2024-05-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 7,Manufacturing Equipment,306954.01,USD,0.211,64.77,2024-09-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 14,Employee Commuting,46129.96,USD,1.527,70.44,2024-03-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 7,IT Hardware,225992.04,USD,0.578,130.62,2024-10-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 2,Manufacturing Equipment,162713.32,USD,1.963,319.41,2024-12-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 2,Raw Materials - Aluminum,353407.13,USD,1.921,678.9,2024-02-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 10,Packaging Materials,189960.64,USD,1.173,222.82,2024-03-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 14,Packaging Materials,81899.92,USD,0.477,39.07,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 5,Manufacturing Equipment,365350.71,USD,2.885,1054.04,2024-05-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 15,Packaging Materials,480256.51,USD,0.06,28.82,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 8,Employee Commuting,272207.08,USD,0.067,18.24,2024-08-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 10,Employee Commuting,227415.5,USD,1.354,307.92,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 15,Inbound Logistics - Truck,139778.36,USD,1.904,266.14,2024-04-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 3,Raw Materials - Steel,326985.16,USD,0.158,51.66,2024-01-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 15,Raw Materials - Aluminum,25466.65,USD,1.28,32.6,2024-03-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 10,Product Use Phase,286569.01,USD,1.708,489.46,2024-08-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 2,Manufacturing Equipment,162088.1,USD,2.698,437.31,2024-02-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 2,Manufacturing Equipment,235937.61,USD,0.41,96.73,2024-05-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 7,Inbound Logistics - Truck,105712.84,USD,0.667,70.51,2024-01-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 12,Inbound Logistics - Truck,493607.44,USD,1.477,729.06,2024-12-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 10,IT Hardware,130570.36,USD,1.747,228.11,2024-10-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 10,Product Use Phase,248702.07,USD,2.201,547.39,2024-08-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 15,Product Use Phase,117128.1,USD,0.907,106.24,2024-04-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 1,Employee Commuting,313104.91,USD,0.398,124.62,2024-04-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 1,IT Hardware,175475.37,USD,2.428,426.05,2024-04-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 12,Manufacturing Equipment,127954.34,USD,0.25,31.99,2024-05-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 2,IT Hardware,171339.43,USD,2.187,374.72,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 4,IT Hardware,417078.82,USD,2.771,1155.73,2024-08-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 11,Packaging Materials,241266.27,USD,1.9,458.41,2024-09-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 13,Business Travel - Air,463967.2,USD,0.215,99.75,2024-09-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 12,IT Hardware,278033.43,USD,0.105,29.19,2024-10-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 2,Packaging Materials,140949.55,USD,0.142,20.01,2024-07-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 10,Business Travel - Air,94502.08,USD,0.395,37.33,2024-05-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 5,Business Travel - Air,44312.09,USD,2.637,116.85,2024-06-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 4,Inbound Logistics - Truck,151856.83,USD,0.381,57.86,2024-01-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 8,Inbound Logistics - Truck,13442.45,USD,1.474,19.81,2024-09-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 6,Employee Commuting,366488.09,USD,1.595,584.55,2024-06-15,PackagePro Ltd,Scope 3 emissions category,Primary data
+Category 14,Inbound Logistics - Truck,338681.93,USD,0.442,149.7,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 7,Inbound Logistics - Truck,58802.16,USD,0.967,56.86,2024-01-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 8,Raw Materials - Steel,52448.31,USD,2.31,121.16,2024-12-15,TechEquip Corp,Scope 3 emissions category,Primary data
+Category 10,Manufacturing Equipment,319786.58,USD,0.669,213.94,2024-04-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 5,Inbound Logistics - Truck,160255.75,USD,1.351,216.51,2024-02-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 3,Manufacturing Equipment,58115.74,USD,2.877,167.2,2024-09-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 9,IT Hardware,275133.46,USD,0.85,233.86,2024-12-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 4,Packaging Materials,36550.19,USD,1.859,67.95,2024-06-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 3,Raw Materials - Steel,235897.05,USD,2.043,481.94,2024-02-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 2,Business Travel - Air,196566.46,USD,2.129,418.49,2024-10-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 6,Manufacturing Equipment,166833.72,USD,0.635,105.94,2024-11-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 10,Packaging Materials,47365.17,USD,2.417,114.48,2024-12-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 8,Manufacturing Equipment,342554.51,USD,2.145,734.78,2024-08-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 4,Packaging Materials,430687.04,USD,1.87,805.38,2024-06-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 12,IT Hardware,394600.57,USD,2.653,1046.88,2024-08-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 2,Employee Commuting,57330.64,USD,1.462,83.82,2024-03-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 10,Product Use Phase,64569.61,USD,0.354,22.86,2024-12-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 9,Raw Materials - Aluminum,396423.04,USD,1.622,643.0,2024-07-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 10,Office Supplies,274426.56,USD,2.923,802.15,2024-07-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 4,Product Use Phase,216143.1,USD,2.942,635.89,2024-10-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 12,Office Supplies,87369.64,USD,2.025,176.92,2024-12-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 10,Product Use Phase,231991.31,USD,1.688,391.6,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 7,Raw Materials - Aluminum,299531.33,USD,2.072,620.63,2024-10-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 8,Raw Materials - Steel,46175.97,USD,2.46,113.59,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 11,Packaging Materials,227034.24,USD,0.91,206.6,2024-10-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 4,IT Hardware,150567.93,USD,2.393,360.31,2024-11-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 12,IT Hardware,495154.34,USD,1.769,875.93,2024-10-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 14,Manufacturing Equipment,32142.87,USD,2.708,87.04,2024-01-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 14,IT Hardware,55739.46,USD,0.883,49.22,2024-01-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 12,Product Use Phase,197739.89,USD,0.988,195.37,2024-07-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 7,Inbound Logistics - Truck,106396.82,USD,0.562,59.8,2024-03-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 7,IT Hardware,420141.38,USD,0.505,212.17,2024-11-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 1,Raw Materials - Aluminum,324546.23,USD,0.475,154.16,2024-08-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 2,Packaging Materials,321479.21,USD,1.277,410.53,2024-08-15,Corporate Travel,Scope 3 emissions category,Hybrid approach
+Category 3,Employee Commuting,255198.04,USD,1.679,428.48,2024-08-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 4,Packaging Materials,212961.16,USD,0.072,15.33,2024-08-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 5,Business Travel - Air,463355.66,USD,1.75,810.87,2024-01-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 8,IT Hardware,57469.02,USD,1.471,84.54,2024-12-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 12,Inbound Logistics - Truck,491805.97,USD,2.952,1451.81,2024-05-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 2,Inbound Logistics - Truck,445067.82,USD,0.311,138.42,2024-08-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 13,Product Use Phase,156937.36,USD,0.206,32.33,2024-06-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 8,Inbound Logistics - Truck,453121.49,USD,1.743,789.79,2024-06-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 13,Manufacturing Equipment,145315.01,USD,0.154,22.38,2024-10-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 5,Raw Materials - Steel,315020.73,USD,1.756,553.18,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 13,Product Use Phase,14621.75,USD,1.48,21.64,2024-03-15,MetalSupply Co,Scope 3 emissions category,Proxy data
+Category 5,Packaging Materials,308283.08,USD,0.862,265.74,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 10,Packaging Materials,455155.61,USD,2.23,1015.0,2024-11-15,WasteManagement Co,Scope 3 emissions category,Proxy data
+Category 13,Packaging Materials,131365.04,USD,2.117,278.1,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 14,Raw Materials - Steel,172081.15,USD,0.299,51.45,2024-03-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 13,Business Travel - Air,385413.53,USD,0.752,289.83,2024-08-15,PackagePro Ltd,Scope 3 emissions category,Secondary data
+Category 10,IT Hardware,28108.57,USD,0.83,23.33,2024-02-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 8,Business Travel - Air,238639.74,USD,1.455,347.22,2024-09-15,OfficeMax,Scope 3 emissions category,Industry average
+Category 11,Business Travel - Air,237820.2,USD,0.478,113.68,2024-07-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 15,Employee Commuting,191620.04,USD,0.981,187.98,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 15,Inbound Logistics - Truck,319074.65,USD,2.871,916.06,2024-07-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 5,Manufacturing Equipment,401355.86,USD,0.803,322.29,2024-10-15,Corporate Travel,Scope 3 emissions category,Industry average
+Category 13,Office Supplies,367422.41,USD,1.787,656.58,2024-04-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 6,Inbound Logistics - Truck,6278.42,USD,0.075,0.47,2024-02-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 2,Inbound Logistics - Truck,52849.74,USD,1.366,72.19,2024-04-15,TechEquip Corp,Scope 3 emissions category,Proxy data
+Category 4,Raw Materials - Steel,12826.54,USD,0.321,4.12,2024-10-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 11,Raw Materials - Aluminum,354329.48,USD,0.404,143.15,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 11,Product Use Phase,401796.83,USD,0.595,239.07,2024-02-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 5,Employee Commuting,330578.45,USD,0.273,90.25,2024-08-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 12,IT Hardware,129410.96,USD,2.353,304.5,2024-05-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 7,IT Hardware,497983.32,USD,0.812,404.36,2024-05-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 2,Employee Commuting,489731.57,USD,0.642,314.41,2024-07-15,PackagePro Ltd,Scope 3 emissions category,Industry average
+Category 2,Packaging Materials,270775.45,USD,1.322,357.97,2024-10-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 12,Manufacturing Equipment,52540.27,USD,0.265,13.92,2024-10-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 1,Employee Commuting,75278.28,USD,1.939,145.96,2024-01-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 3,IT Hardware,452404.15,USD,1.745,789.45,2024-09-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 7,Business Travel - Air,422180.53,USD,2.354,993.81,2024-02-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 7,Employee Commuting,61480.62,USD,1.629,100.15,2024-06-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 7,Raw Materials - Steel,316503.99,USD,2.879,911.21,2024-02-15,LogisticsPro,Scope 3 emissions category,Hybrid approach
+Category 14,IT Hardware,41147.94,USD,1.406,57.85,2024-05-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 9,Raw Materials - Steel,483788.97,USD,1.999,967.09,2024-05-15,Corporate Travel,Scope 3 emissions category,Primary data
+Category 11,IT Hardware,243765.27,USD,2.661,648.66,2024-08-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 1,Office Supplies,13656.94,USD,2.989,40.82,2024-04-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 2,Inbound Logistics - Truck,322060.41,USD,1.524,490.82,2024-08-15,SteelCorp Inc,Scope 3 emissions category,Primary data
+Category 6,Raw Materials - Steel,169521.58,USD,2.177,369.05,2024-07-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 13,Inbound Logistics - Truck,229726.81,USD,2.05,470.94,2024-09-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 4,Raw Materials - Aluminum,19401.96,USD,0.468,9.08,2024-11-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 15,Product Use Phase,23855.05,USD,2.119,50.55,2024-03-15,SteelCorp Inc,Scope 3 emissions category,Secondary data
+Category 11,Raw Materials - Steel,452426.51,USD,2.471,1117.95,2024-02-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 3,Product Use Phase,32914.85,USD,2.462,81.04,2024-02-15,WasteManagement Co,Scope 3 emissions category,Hybrid approach
+Category 13,Product Use Phase,111065.69,USD,2.423,269.11,2024-07-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 6,Raw Materials - Aluminum,487950.78,USD,1.749,853.43,2024-03-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 13,Raw Materials - Steel,296949.54,USD,1.04,308.83,2024-02-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 13,Business Travel - Air,84857.38,USD,1.141,96.82,2024-03-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 15,Product Use Phase,21308.75,USD,0.345,7.35,2024-11-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 1,Employee Commuting,41280.58,USD,0.071,2.93,2024-02-15,TechEquip Corp,Scope 3 emissions category,Industry average
+Category 12,Employee Commuting,346486.81,USD,0.658,227.99,2024-11-15,TechEquip Corp,Scope 3 emissions category,Hybrid approach
+Category 8,Business Travel - Air,120387.63,USD,0.565,68.02,2024-12-15,SteelCorp Inc,Scope 3 emissions category,Hybrid approach
+Category 3,Employee Commuting,306412.86,USD,0.31,94.99,2024-05-15,LogisticsPro,Scope 3 emissions category,Industry average
+Category 1,Inbound Logistics - Truck,118583.86,USD,0.397,47.08,2024-09-15,MetalSupply Co,Scope 3 emissions category,Hybrid approach
+Category 6,Inbound Logistics - Truck,254262.84,USD,1.419,360.8,2024-11-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 1,Office Supplies,57226.88,USD,0.49,28.04,2024-08-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 3,Raw Materials - Steel,27959.78,USD,1.124,31.43,2024-04-15,Corporate Travel,Scope 3 emissions category,Proxy data
+Category 6,Product Use Phase,402771.68,USD,2.287,921.14,2024-01-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 15,Inbound Logistics - Truck,88767.92,USD,2.367,210.11,2024-08-15,MetalSupply Co,Scope 3 emissions category,Primary data
+Category 15,Office Supplies,360980.14,USD,1.798,649.04,2024-06-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 12,IT Hardware,115801.55,USD,0.375,43.43,2024-04-15,MetalSupply Co,Scope 3 emissions category,Secondary data
+Category 12,Business Travel - Air,435073.27,USD,1.158,503.81,2024-04-15,MetalSupply Co,Scope 3 emissions category,Industry average
+Category 10,Employee Commuting,28115.34,USD,1.336,37.56,2024-04-15,WasteManagement Co,Scope 3 emissions category,Secondary data
+Category 7,IT Hardware,69065.9,USD,2.173,150.08,2024-11-15,LogisticsPro,Scope 3 emissions category,Proxy data
+Category 4,IT Hardware,64478.67,USD,2.092,134.89,2024-01-15,TechEquip Corp,Scope 3 emissions category,Secondary data
+Category 2,Employee Commuting,229830.88,USD,0.555,127.56,2024-06-15,OfficeMax,Scope 3 emissions category,Proxy data
+Category 10,Packaging Materials,394983.94,USD,1.932,763.11,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 9,Office Supplies,44150.69,USD,2.578,113.82,2024-08-15,OfficeMax,Scope 3 emissions category,Hybrid approach
+Category 8,Employee Commuting,140306.27,USD,2.204,309.24,2024-12-15,OfficeMax,Scope 3 emissions category,Secondary data
+Category 6,Business Travel - Air,290154.05,USD,2.681,777.9,2024-10-15,PackagePro Ltd,Scope 3 emissions category,Hybrid approach
+Category 15,Raw Materials - Steel,209468.15,USD,0.18,37.7,2024-08-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 9,Business Travel - Air,240155.4,USD,2.404,577.33,2024-02-15,WasteManagement Co,Scope 3 emissions category,Industry average
+Category 4,Raw Materials - Aluminum,279685.0,USD,0.087,24.33,2024-12-15,Corporate Travel,Scope 3 emissions category,Secondary data
+Category 3,IT Hardware,148599.42,USD,1.961,291.4,2024-02-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 11,Manufacturing Equipment,81739.61,USD,1.405,114.84,2024-10-15,SteelCorp Inc,Scope 3 emissions category,Industry average
+Category 8,Packaging Materials,437225.32,USD,1.246,544.78,2024-06-15,WasteManagement Co,Scope 3 emissions category,Primary data
+Category 14,Raw Materials - Aluminum,193054.75,USD,2.088,403.1,2024-09-15,SteelCorp Inc,Scope 3 emissions category,Proxy data
+Category 7,Manufacturing Equipment,349329.44,USD,1.857,648.7,2024-10-15,OfficeMax,Scope 3 emissions category,Primary data
+Category 10,IT Hardware,368144.63,USD,0.212,78.05,2024-11-15,LogisticsPro,Scope 3 emissions category,Primary data
+Category 2,Business Travel - Air,183429.84,USD,1.876,344.11,2024-06-15,LogisticsPro,Scope 3 emissions category,Secondary data
+Category 11,Inbound Logistics - Truck,352731.96,USD,1.704,601.06,2024-04-15,PackagePro Ltd,Scope 3 emissions category,Proxy data
+Category 4,Inbound Logistics - Truck,57665.28,USD,1.462,84.31,2024-10-15,OfficeMax,Scope 3 emissions category,Secondary data
