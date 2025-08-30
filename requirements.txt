@@ -1,0 +1,9 @@
+numpy
+pandas
+pypdf
+tqdm
+sentence-transformers
+pinecone-client
+google-generativeai
+python-dotenv
+streamlit
