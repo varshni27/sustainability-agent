@@ -38,4 +38,4 @@ All dependencies are listed in requirements.txt.
 
 ## Appendix
 - The one-pager delving into the design decisions and technical challenges can be found [here](https://www.notion.so/Emissions-Analysis-and-Insights-Agent-25fcadf03a6280dea9c2ca5898a8712b?source=copy_link)
-- The streamlit app using my personal GoogleAI/Pinecone credentials can found [here]((http://172.20.10.3:8507)) 
+- The streamlit app using my personal GoogleAI/Pinecone credentials can found [here](http://172.20.10.3:8507) 
